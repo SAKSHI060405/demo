@@ -1,5 +1,5 @@
 # demo
 demo repo
 <br>
-my name sakshi pandey
+my name is sakshi pandey
 
